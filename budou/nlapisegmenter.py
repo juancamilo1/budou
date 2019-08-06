@@ -54,7 +54,7 @@ from .chunk import Chunk, ChunkList
 
 _DEPENDENT_LABEL = (
     'P', 'SNUM', 'PRT', 'AUX', 'SUFF', 'AUXPASS', 'RDROP', 'NUMBER', 'NUM',
-    'PREF')
+    'PREF', 'VMOD')
 """ list of str: Labels dependent to other parts.
 """
 
